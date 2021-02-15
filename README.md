@@ -78,3 +78,5 @@ Use Threads and Inter Process Communication in your Qt 5 C++ applications : A Pr
 
 ## Section 9: Wrap up
 * Course Wrap up
+
+![landing](/connect.png)
